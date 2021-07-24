@@ -1,0 +1,9 @@
+cd d:
+mkdir txt
+cat > sample.txt
+git init
+git add sample.txt
+git commit -m "added sample.txt"
+git remote add github + link
+git push github master
+git pull github master
